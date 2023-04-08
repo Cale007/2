@@ -1,0 +1,24 @@
+.discussion {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.avatar {
+    float: left;
+}
+
+.message {
+    text-align: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.area {
+    width: 100%;
+}
+
+.submit {
+    text-align: center;
+}
